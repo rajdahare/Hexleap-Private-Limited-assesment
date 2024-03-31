@@ -1,6 +1,4 @@
 ## Hexleap Frontend Assignment
 
-## ScreenShots
-
-## Desktop Light Mode
+## Sample website
 ![Desktop Light Mode](public/DesktopLight.png)
